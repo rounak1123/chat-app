@@ -1,0 +1,10 @@
+client/node_modules
+client/.env
+
+server/Procfile
+server/node_modules
+
+socket/Procfile
+socket/node_modules
+client/.gitignore
+server/.gitignore
